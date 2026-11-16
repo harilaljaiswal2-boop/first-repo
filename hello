@@ -1,0 +1,6 @@
+hello.txt my-project/
+├── README.md
+├── .gitignore
+├── main.py
+└── tests/
+    └── test_main.py
